@@ -1,8 +1,8 @@
 <a href="https://github.com/emreozsoy">
-  <img align="left"  width=%47 src="https://github-readme-stats.vercel.app/api?username=emreozsoy" />
+  <img align="left"  width=47% src="https://github-readme-stats.vercel.app/api?username=emreozsoy" />
 </a>
 <a href="https://github.com/emreozsoy">
-  <img align="left" width=%47 src="https://github-readme-stats.vercel.app/api/top-langs?username=emreozsoy&layout=compact&langs_count=8&card_width=320" />
+  <img align="left" width=37% src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" />
 </a>
 <div style="display: flex; padding-top: 20px; justify-content: space-between; flex-wrap: wrap;">
   <img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
